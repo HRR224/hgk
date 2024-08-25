@@ -1,0 +1,42 @@
+h1 {
+    font-size: 140px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0px 0;
+    
+background: -moz-element(20);
+}
+.p1 {
+   
+    background-color :rgb(149, 100, 168);        /* Text color */
+    font-size: 60px;    /* Font size */
+    line-height: 1.5;   /* Line height */
+    margin: 60px 0;     /* Margin */
+    text-align: center;   /* Text alignment */
+    color: rgb(0, 0, 0);
+    text-wrap: bold;
+}
+div{
+    background-color: rgb(124, 136, 136);
+}
+.p2 {
+   
+    background-color :rgb(100, 164, 168);        /* Text color */
+    font-size: 60px;    /* Font size */
+    line-height: 1.5;   /* Line height */
+    margin: 60px 0;     /* Margin */
+    text-align: center;   /* Text alignment */
+    color: rgb(0, 0, 0);
+    text-wrap: bold;
+}
+.p3 {
+   
+    background-color :rgb(168, 156, 100);        /* Text color */
+    font-size: 60px;    /* Font size */
+    line-height: 1.5;   /* Line height */
+    margin: 60px 0;     /* Margin */
+    text-align: center;   /* Text alignment */
+    color: rgb(0, 0, 0);
+    text-wrap: bold;
+}
